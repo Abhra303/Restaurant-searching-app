@@ -33,7 +33,7 @@ export default function(props) {
                                 longitude={parseFloat(elem.restaurant.location.longitude)}
                             >
                                     <div>
-                                        <img src={location} width='22px' alt={elem.restaurant.name}/>
+                                        <img src={location} width='22px' alt={elem.restaurant.name} title={elem.restaurant.name}/>
                                     </div>
                             </Marker>
                         ))
