@@ -14,3 +14,7 @@ It will give a list of restaurants along with their location on map.
 # Contributors
 
 <a href='https://github.com/Abhra303'>abhra303</a> and <a href='https://github.com/Subhra264'>subhra264</a>
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/75240995/103867194-f5b95580-50ec-11eb-9e69-d9786d224a38.png)
