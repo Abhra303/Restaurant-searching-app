@@ -1,0 +1,18 @@
+input{
+    padding: 5px;
+    background-color: #282c34;
+    color:aliceblue;
+    margin-right: 42px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid aliceblue;
+    font-size: 1.2rem;
+}
+
+#submit{
+    border:none;
+    background-color: #38c1ff;
+    color:#ffffff;
+    font-size: 1rem;
+    padding: 8px 12px;
+}
