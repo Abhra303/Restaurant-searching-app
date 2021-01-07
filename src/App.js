@@ -79,8 +79,9 @@ function App() {
       </div>
       <div className='worker'>
         {/* <Restaurents /> */}
-        
+        <Wrapper resultList={resultList} />
         <div className='tv-wrapper'>
+          <Tv resultList={resultList}/>
         </div>
       </div>
     </div>
